@@ -1,0 +1,15 @@
+.projects {
+    background-color: rgba(9, 15, 29, 0.95);
+    padding: 150px;
+    font-family: 'Baloo 2', cursive;
+}
+.cardStyle {
+    width: 18rem;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.507);
+    margin-top: 50px;
+}
+.projects h1{
+    text-align: center;
+    padding: 20px 0px;
+    padding-bottom: 50px;
+}

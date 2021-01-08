@@ -1,0 +1,23 @@
+.icons {
+    margin-bottom: 15px;
+}
+.icons img{
+    margin-right: 20px;
+}
+.titleComponent {
+    padding: 170px;
+    background-color: rgba(9, 15, 29, 0.95);
+    font-family: 'Baloo 2', cursive;
+}
+.titleProfile div {
+    display: flex;
+}
+.titleImage{
+    margin-top: -40px;
+}
+.title h1 {
+    font-size: 30px;
+}
+.title p {
+    font-size: 21px;
+}

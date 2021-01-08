@@ -1,0 +1,19 @@
+.contacts {
+    background-color: rgba(20, 42, 82, 0.973);
+    font-family: 'Baloo 2', cursive;
+}
+.contacts h1 {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.email {
+    display: flex;   
+    align-items: center;
+    padding: 15px;
+    padding-bottom: 150px;
+}
+
+.email div {
+    margin: 15px;
+}
